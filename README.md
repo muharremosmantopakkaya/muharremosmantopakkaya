@@ -1,6 +1,3 @@
-
-.
-
 <h1 align="center">Hi 👋, I'm Muharrem Osman TOPAKKAYA</h1>
 <h3 align="center">I've recently graduated from the Software Engineering department in the Faculty of Engineering and Architecture at my university. With my passion for technology and software, I am excited to start my career as a Software Engineer.</h3>
 
