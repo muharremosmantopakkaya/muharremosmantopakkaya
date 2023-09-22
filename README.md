@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://muharremtopakkaya.showwcase.com/](https://muharremtopakkaya.showwcase.com/)
+- 👨‍💻 All of my portfolio items can be viewed at [https://muharremtopakkaya.showwcase.com/](https://muharremtopakkaya.showwcase.com/)
 
 - 📫 How to reach me **muharremtopakkaya@gmail.com**
 
