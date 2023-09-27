@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muharremosmantopakkaya&label=Profile%20views&color=0e75b6&style=flat" alt="muharremosmantopakkaya" /> </p>
 
-- 🌱 I’m currently learning **I’m currently learning Python and Kotlin**
+- 🌱 I’m currently learning **Python and Kotlin**
 
 - 👨‍💻 All of my portfolio items can be viewed at [https://muharremtopakkaya.showwcase.com/](https://muharremtopakkaya.showwcase.com/)
 
