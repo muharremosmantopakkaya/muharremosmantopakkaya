@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muharrem Osman TOPAKKAYA</h1>
-<h3 align="center">I've recently graduated from the Software Engineering department in the Faculty of Engineering and Architecture at my university. With my passion for technology and software, I am excited to start my career as a Software Engineer.</h3>
+<h3 align="center">Graduated in Software Engineering, currently pursuing an MSc in Electrical and Computer Engineering. Passionate about technology and building impactful software solutions, especially in finance and enterprise-scale systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muharremosmantopakkaya&label=Profile%20views&color=0e75b6&style=flat" alt="muharremosmantopakkaya" /> </p>
 
