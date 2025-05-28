@@ -24,4 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muharremosmantopakkaya&show_icons=true&locale=en" alt="muharremosmantopakkaya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muharremosmantopakkaya&" alt="muharremosmantopakkaya" /></p>
+[<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muharremosmantopakkaya&" alt="muharremosmantopakkaya" /></p>
+](url)
