@@ -1,4 +1,5 @@
-<h1 align="center">👨‍💻 <strong>Muharrem Osman TOPAKKAYA</strong></h1>
+<h1 align="center" style="font-weight:bold;font-size:2.5em;">👨‍💻 Muharrem Osman TOPAKKAYA</h1>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Software+Engineer+%26+MSc+Graduate;Full+Stack+Developer;Finance+%26+Enterprise+Solutions;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
