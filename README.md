@@ -61,13 +61,19 @@
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muharremosmantopakkaya&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=320" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=muharremosmantopakkaya&show_icons=true&locale=en&theme=radical" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muharremosmantopakkaya&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=320" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=muharremosmantopakkaya&show_icons=true&locale=en&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
