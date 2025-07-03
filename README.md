@@ -24,7 +24,7 @@
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/💼_Focus-Fintech_Solutions-gold?style=for-the-badge&logo=dollar-sign&logoColor=white" />
         <br>
-        <img src="https://img.shields.io/badge/🚀_Passion-Enterprise_Systems-red?style=for-the-badge&logo=rocket&logoColor=white" />
+        <img src="https://img.shields.io/badge/_Passion-Enterprise_Systems-red?style=for-the-badge&logo=rocket&logoColor=white" />
       </td>
     </tr>
   </table>
