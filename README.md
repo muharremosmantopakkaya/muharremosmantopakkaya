@@ -100,7 +100,7 @@
   <a href="https://kaggle.com/muharremtopakkaya" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://codesandbox.com/muharremosmantopakkaya" target="_blank">
+  <a href="https://codesandbox.io/u/muharremosmantopakkaya" target="_blank">
     <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" />
   </a>
   <a href="https://www.hackerrank.com/muharremtopakka1" target="_blank">
