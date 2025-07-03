@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muharrem Osman TOPAKKAYA</h1>
-<h3 align="center">Graduated in Software Engineering, currently pursuing an MSc in Electrical and Computer Engineering. Passionate about technology and building impactful software solutions, especially in finance and enterprise-scale systems.</h3>
+<h3 align="center">Graduated in Software Engineering and completed an MSc in Electrical and Computer Engineering. Passionate about technology and building impactful software solutions, especially in finance and enterprise-scale systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muharremosmantopakkaya&label=Profile%20views&color=0e75b6&style=flat" alt="muharremosmantopakkaya" /> </p>
 
@@ -65,10 +65,12 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muharremosmantopakkaya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muharremosmantopakkaya" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muharremosmantopakkaya&show_icons=true&locale=en&theme=radical" alt="muharremosmantopakkaya" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muharremosmantopakkaya&show_icons=true&locale=en&theme=radical" alt="muharremosmantopakkaya" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muharremosmantopakkaya&theme=onedark" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muharremosmantopakkaya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muharremosmantopakkaya" />
+</div>
 
 
