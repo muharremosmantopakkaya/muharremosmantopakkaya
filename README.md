@@ -30,6 +30,8 @@
   <table>
     <tr>
       <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/📍_Location-Istanbul,_Turkey-FF6B6B?style=for-the-badge&logo=location-dot&logoColor=white" />
+        <br>
         <img src="https://img.shields.io/badge/🎓_Education-Software_Engineering-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" />
         <br>
         <img src="https://img.shields.io/badge/📚_MSc-Electrical_&_Computer_Engineering-green?style=for-the-badge&logo=university&logoColor=white" />
@@ -37,17 +39,14 @@
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/💼_Focus-Fintech_Solutions-gold?style=for-the-badge&logo=dollar-sign&logoColor=white" />
         <br>
+        <img src="https://img.shields.io/badge/🧠_Interest-AI/ML_Enthusiast-purple?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+        <br>
         <img src="https://img.shields.io/badge/_Passion-Enterprise_Systems-red?style=for-the-badge&logo=rocket&logoColor=white" />
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/📧_muharremtopakkaya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌍_Istanbul,_Turkey-FF6B6B?style=for-the-badge&logo=location-dot&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖_AI/ML_Enthusiast-purple?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-</div>
 
 ## 🔥 GitHub Statistics
 
