@@ -48,13 +48,7 @@
 </div>
 
 
-## 🔥 GitHub Statistics
 
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muharremosmantopakkaya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muharremosmantopakkaya&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff"/>
-</div>
 
 ## 🛠️ Tech Stack
 
